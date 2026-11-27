@@ -1,0 +1,6 @@
+{
+  "appId": "com.jwstudy.companion",
+  "appName": "JW Study Companion",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
